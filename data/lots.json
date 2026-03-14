@@ -1,0 +1,95 @@
+[
+  {
+    "id": "westfield-top-deck",
+    "name": "Westfield Top Deck",
+    "kind": "outdoor",
+    "description": "Mall pilot lot with pole-mounted cameras and one-click navigation.",
+    "camera_count": 6,
+    "map_center": {
+      "lat": 34.07224,
+      "lng": -118.359245
+    },
+    "spots": [
+      {
+        "label": "A-12",
+        "zone": "North Row",
+        "status": "free",
+        "lat": 34.072291,
+        "lng": -118.359391,
+        "updated_at": "2026-03-14 11:00:00"
+      },
+      {
+        "label": "A-13",
+        "zone": "North Row",
+        "status": "occupied",
+        "lat": 34.072254,
+        "lng": -118.359341,
+        "updated_at": "2026-03-14 11:00:00"
+      },
+      {
+        "label": "B-04",
+        "zone": "Center Lane",
+        "status": "free",
+        "lat": 34.07219,
+        "lng": -118.359201,
+        "updated_at": "2026-03-14 11:00:00"
+      },
+      {
+        "label": "C-18",
+        "zone": "South Row",
+        "status": "occupied",
+        "lat": 34.072133,
+        "lng": -118.359077,
+        "updated_at": "2026-03-14 11:00:00"
+      }
+    ]
+  },
+  {
+    "id": "dtla-garage-l2",
+    "name": "DTLA Garage L2",
+    "kind": "indoor",
+    "description": "Indoor garage floor with LED channels mapped per bay.",
+    "camera_count": 3,
+    "map_center": {
+      "lat": 34.0469,
+      "lng": -118.2568
+    },
+    "spots": [
+      {
+        "label": "L2-01",
+        "zone": "Blue Zone",
+        "status": "free",
+        "led_channel": "GPIO-01",
+        "updated_at": "2026-03-14 11:00:00"
+      },
+      {
+        "label": "L2-02",
+        "zone": "Blue Zone",
+        "status": "occupied",
+        "led_channel": "GPIO-02",
+        "updated_at": "2026-03-14 11:00:00"
+      },
+      {
+        "label": "L2-03",
+        "zone": "Blue Zone",
+        "status": "free",
+        "led_channel": "GPIO-03",
+        "updated_at": "2026-03-14 11:00:00"
+      },
+      {
+        "label": "L2-04",
+        "zone": "Orange Zone",
+        "status": "occupied",
+        "led_channel": "GPIO-04",
+        "updated_at": "2026-03-14 11:00:00"
+      },
+      {
+        "label": "L2-05",
+        "zone": "Orange Zone",
+        "status": "free",
+        "led_channel": "GPIO-05",
+        "updated_at": "2026-03-14 11:00:00"
+      }
+    ]
+  }
+]

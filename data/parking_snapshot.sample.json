@@ -1,0 +1,20 @@
+{
+  "slots": [
+    {
+      "label": "A-12",
+      "occupied": true
+    },
+    {
+      "label": "A-13",
+      "occupied": true
+    },
+    {
+      "label": "B-04",
+      "occupied": false
+    },
+    {
+      "label": "C-18",
+      "occupied": false
+    }
+  ]
+}

@@ -1,1 +1,0 @@
-"""SmartPark local dashboard package."""
